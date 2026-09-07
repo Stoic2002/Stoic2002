@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Mobile developer, mostly building with Flutter.
+Fullstack and mobile developer.
 
-- 🌱 Currently learning Flutter, REST APIs, and app deployment
-- 💬 Happy to talk about Flutter, Dart, and mobile architecture
+- 🛠️ Building apps end to end, from the first screen to release
+- 🧩 Prefer boring solutions that still make sense six months later
 - 📫 Reach me at [arulkarim19@gmail.com](mailto:arulkarim19@gmail.com)
 
 <br />
