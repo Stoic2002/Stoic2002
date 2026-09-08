@@ -39,6 +39,7 @@ Full-stack & mobile developer.
 
 ![Flutter](https://img.shields.io/badge/Flutter-161B22?style=flat&logoColor=8B949E&logo=flutter)
 ![Android](https://img.shields.io/badge/Android-161B22?style=flat&logoColor=8B949E&logo=android)
+![iOS](https://img.shields.io/badge/iOS-161B22?style=flat&logoColor=8B949E&logo=ios)
 
 **Data**
 
@@ -50,9 +51,6 @@ Full-stack & mobile developer.
 
 ![Claude](https://img.shields.io/badge/Claude-161B22?style=flat&logoColor=8B949E&logo=claude)
 ![Codex](https://img.shields.io/badge/Codex-161B22?style=flat&logoColor=8B949E)
-![Git](https://img.shields.io/badge/Git-161B22?style=flat&logoColor=8B949E&logo=git)
-![Postman](https://img.shields.io/badge/Postman-161B22?style=flat&logoColor=8B949E&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-161B22?style=flat&logoColor=8B949E&logo=figma)
 
 <br />
 
